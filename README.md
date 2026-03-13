@@ -13,6 +13,8 @@
 
 ### ⚙ Projetos de Desenvolvimento de Software
 
+**JAVA: Praticando Programação Orientada a Objetos (POO) e aperfeiçoando conhecimento da sintaxe Java.**
+- [Catálogo de Filmes](https://github.com/JakeDamacena/catalogo_de_filmes)
 
 **Lógica de Programação: Praticando fundamentos e algoritmos com Python e JavaScript.**
 
